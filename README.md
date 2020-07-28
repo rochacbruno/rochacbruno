@@ -9,8 +9,8 @@
 ---
 <p>
 
-<a href="https://twitch.tv/codeshow"><img src="img/CODE.png" align="left" width="100px"></a>
-<a href="https://twitch.tv/codeshow"><img src="img/SHOW.png" align="right" width="100px"></a>
+<a href="https://twitch.tv/codeshow"><img src="https://github.com/rochacbruno/rochacbruno/raw/master/img/CODE.png" align="left" width="100px"></a>
+<a href="https://twitch.tv/codeshow"><img src="https://github.com/rochacbruno/rochacbruno/raw/master/img/SHOW.png" align="right" width="100px"></a>
 
 <a href="https://twitch.tv/codeshow" target="blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="rochacbruno" height="20" width="20" /> Twitch verified live coding partner</a>
 
