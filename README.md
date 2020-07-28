@@ -1,6 +1,10 @@
 # Hi 👋, I'm Bruno Rocha
 ### Programmer
 
+```rust
+fn main() {
+```
+
 - 👨‍💻 I’m currently programming on [Red Hat](https://redhat.com) for [Ansible](https://github.com/ansible) project. 
 - 🦀 I’m looking to collaborate on [Rust](https://github.com/rust-lang) working groups & Rust related projects. 
 - ⚙️ I’m maintaining [Python Dynaconf](https://dynaconf.com) a library to manage app configurations for Python, Flask and Django. 
@@ -10,7 +14,6 @@
 <p>
 
 <a href="https://twitch.tv/codeshow"><img src="https://github.com/rochacbruno/rochacbruno/raw/master/img/CODE.png" align="left" width="100px"></a>
-<a href="https://twitch.tv/codeshow"><img src="https://github.com/rochacbruno/rochacbruno/raw/master/img/SHOW.png" align="right" width="100px"></a>
 
 <a href="https://twitch.tv/codeshow" target="blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="rochacbruno" height="20" width="20" /> Twitch verified live coding partner</a>
 
@@ -45,3 +48,7 @@ Read my full bio [In English](https://github.com/rochacbruno/rochacbruno/blob/ma
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p>
+
+```rust
+}
+```
