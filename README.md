@@ -40,9 +40,6 @@ Read my full bio [In English](https://github.com/rochacbruno/rochacbruno/blob/ma
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=rochacbruno&show_icons=true" alt="rochacbruno" /> </p>
-
-
 <center>
   <table>
     <tr>
