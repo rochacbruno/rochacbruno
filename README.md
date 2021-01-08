@@ -53,6 +53,11 @@ Read my full bio [In English](https://github.com/rochacbruno/rochacbruno/blob/ma
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p>
 
+<h2 align='left'>#Github Points: :octocat:🏆️</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=rochacbruno&theme=onedark&margin-w=7&hide_border=true" alt="rochacbruno points"/>
+</p>
+
 ```rust
 }
 ```
