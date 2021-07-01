@@ -28,7 +28,7 @@ fn main() {
 <p align="center">
 <a href="https://twitter.com/rochacbruno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rochacbruno" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/rochacbruno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rochacbruno" height="20" width="20" /></a>
-<a href="https://instagram.com/codeshowbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codeshowbr" height="20" width="20" /></a>
+<a href="https://instagram.com/rochacbruno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codeshowbr" height="20" width="20" /></a>
 <a href="https://dev.to/rochacbruno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rochacbruno" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/rochacbruno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rochacbruno" height="20" width="20" /></a>
 <a href="https://fb.com/codeshowbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="codeshowbr" height="20" width="20" /></a>
