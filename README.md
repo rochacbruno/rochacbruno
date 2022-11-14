@@ -12,6 +12,7 @@
 [![Twitter](https://img.shields.io/badge/rochacbruno-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rochacbruno)
 [![Instagram](https://img.shields.io/badge/rochacbruno-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rochacbruno)
 [![YouTube](https://img.shields.io/badge/CodeShowBR-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/CodeShowBR)
+[![Mastodon](https://img.shields.io/badge/rochacbruno-%231DA1F2.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@rochacbruno)
 [![Twitch](https://img.shields.io/badge/codeshow-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/codeshow)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rochacbruno)
 
@@ -26,20 +27,13 @@
 
 #### My toolbox includes
 
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Arch%20Linux-purple?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![i3wm](https://img.shields.io/badge/🌲%20i3wm-35BF5C?style=for-the-badge&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Vim](https://img.shields.io/badge/Micro%20Editor-%2311AB00.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-
-#### And before you have the chance to ask
-
-![Arch](https://img.shields.io/badge/I%20use%20Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Rust](https://img.shields.io/badge/I%20love%20rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Vim](https://img.shields.io/badge/I%20use%20VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![vegan](https://img.shields.io/badge/🌱I%20am%20vegan-black.svg?style=for-the-badge&logoColor=white)
 
 [![Read My Full Biography](https://img.shields.io/badge/Read%20My%20Full%20Biography-%231DA1F2.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/rochacbruno/rochacbruno/blob/master/HISTORY.md)
 [![Also in portuguese](https://img.shields.io/badge/Also%20in%20Portuguese-%231DA1F2.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/rochacbruno/rochacbruno/blob/master/HISTORY_ptbr.md)
