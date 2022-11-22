@@ -12,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/rochacbruno-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rochacbruno)
 [![Instagram](https://img.shields.io/badge/rochacbruno-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rochacbruno)
 [![YouTube](https://img.shields.io/badge/CodeShowBR-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/CodeShowBR)
-[![Mastodon](https://img.shields.io/badge/rochacbruno-%231DA1F2.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@rochacbruno)
+[![Mastodon](https://img.shields.io/badge/rochacbruno-%231DA1F2.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://bolha.us/@rochacbruno)
 [![Twitch](https://img.shields.io/badge/codeshow-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/codeshow)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rochacbruno)
 
