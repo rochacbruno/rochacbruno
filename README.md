@@ -38,8 +38,9 @@
 [![Read My Full Biography](https://img.shields.io/badge/Read%20My%20Full%20Biography-%231DA1F2.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/rochacbruno/rochacbruno/blob/master/HISTORY.md)
 [![Also in portuguese](https://img.shields.io/badge/Also%20in%20Portuguese-%231DA1F2.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/rochacbruno/rochacbruno/blob/master/HISTORY_ptbr.md)
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rochacbruno&show-avatar=false" width="800" />
 
-![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rochacbruno&show-avatar=false)
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rochacbruno&skills=python,rust,shell,lua,html,javascript" width="800" />
 
 <details>
   <summary><small>Click for text only version.</small></summary>
