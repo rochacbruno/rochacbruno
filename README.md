@@ -39,6 +39,8 @@
 [![Also in portuguese](https://img.shields.io/badge/Also%20in%20Portuguese-%231DA1F2.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/rochacbruno/rochacbruno/blob/master/HISTORY_ptbr.md)
 
 
+![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rochacbruno&show-avatar=false)
+
 <details>
   <summary><small>Click for text only version.</small></summary>
 
