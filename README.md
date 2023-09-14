@@ -45,6 +45,7 @@ Book Author, Member of the Python Software Foundation, Rust enthusiast and I use
 - 🧬 Helix Editor
 - [dotfiles](https://github.com/rochacbruno/dotfiles)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p>
 ---
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rochacbruno&show-avatar=false" width="800" />
