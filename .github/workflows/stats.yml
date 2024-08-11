@@ -19,7 +19,7 @@ jobs:
         uses: teoxoy/profile-readme-stats@master
         with:
           token: ${{ secrets.USER_TOKEN }}
-          includeForks: true
+          includeForks: false
       - name: Update README.md
         shell: bash
         run: |
