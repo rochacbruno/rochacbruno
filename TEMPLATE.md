@@ -25,7 +25,7 @@ Most used languages across my projects:
 [
     "Package Management", "Content Management", "System Configuration", "Distributed Systems", "Event Driven",
     "Architecture", "Engineering", "Programming", "Team Leading", "Quality Engineering",
-    "Django", "Flask", "FastAPI", "Axum", "Actix",`
+    "Django", "Flask", "FastAPI", "Axum", "Actix",
     "HTTP", "REST", "g/RPC", "*sockets",
     "Redis", "Postgres", "SQL", "MongoDB", "ElasticSearch", "MeiliSearch", "etcd", "vault",
     "Ansible", "Docker", "Podman", "Nginx", "Apache", "Envoy",
