@@ -9,20 +9,20 @@ Book Author, Member of the Python Software Foundation.
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **13** years ago, I pushed **5266** commits, opened **964** issues, submitted **1005** pull requests, reviewed **1328** PRs, received **9680** stars across **63** personal projects, and contributed to **35** public repositories.
+Ever since I joined GitHub **13** years ago, I pushed **5268** commits, opened **964** issues, submitted **1005** pull requests, reviewed **1328** PRs, received **9680** stars across **64** personal projects, and contributed to **35** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
 Most used languages across my projects:
 
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B157.2%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B126.4%25)
-![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B14.5%25)
-![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B14.4%25)
-![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B14%25)
-![Makefile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23427819&message=Makefile%EF%B8%B11.6%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B10.4%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.1%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B149.1%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B122.7%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B114.2%25)
+![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B13.8%25)
+![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B13.8%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B13.4%25)
+![Makefile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23427819&message=Makefile%EF%B8%B11.4%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.3%25)
 
 #### I have hands-on experience with
 
@@ -30,7 +30,7 @@ Most used languages across my projects:
 [
     "Package Management", "Content Management", "System Configuration", "Distributed Systems", "Event Driven",
     "Architecture", "Engineering", "Programming", "Team Leading", "Quality Engineering",
-    "Django", "Flask", "FastAPI", "Axum", "Actix",`
+    "Django", "Flask", "FastAPI", "Axum", "Actix",
     "HTTP", "REST", "g/RPC", "*sockets",
     "Redis", "Postgres", "SQL", "MongoDB", "ElasticSearch", "MeiliSearch", "etcd", "vault",
     "Ansible", "Docker", "Podman", "Nginx", "Apache", "Envoy",
