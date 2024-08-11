@@ -5,7 +5,9 @@ Currently I am coding at [Red Hat](https://redhat.com) for the [Ansible Automati
 I am the creator and maintainer of [Dynaconf](https://dynaconf.com) the Python Settings Library,
 Book Author, Member of the Python Software Foundation.
 
-Ever since I joined GitHub **13** years ago, I pushed **4715** commits, opened **964** issues, submitted **1005** pull requests, reviewed **1328** PRs, received **183** stars across **224** personal projects, and contributed to **35** public repositories.
+Ever since I joined GitHub **13** years ago, I pushed **4717** commits, opened **964** issues, submitted **1005** pull requests, reviewed **1328** PRs, received **{{ STARS + 9500 }}** stars across **224** personal projects, and contributed to **35** public repositories.
+
+<!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
 Most used languages across my projects:
 
