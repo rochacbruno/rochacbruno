@@ -1,0 +1,32 @@
+name: Update stats
+
+on:
+  schedule:
+    - cron: "0 11 * * *" # every 24 hours
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Generate README.md
+        uses: teoxoy/profile-readme-stats@master
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+          includeForks: true
+      - name: Update README.md
+        shell: bash
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name 'Bruno Rocha'
+            git config user.email 'rochacbruno@gmail.com'
+            git add *.md
+            git commit -m "Update README.md"
+            git push
+          fi
