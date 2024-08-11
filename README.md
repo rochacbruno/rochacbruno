@@ -5,13 +5,18 @@ Currently I am coding at [Red Hat](https://redhat.com) for the [Ansible Automati
 I am the creator and maintainer of [Dynaconf](https://dynaconf.com) the Python Settings Library,
 Book Author, Member of the Python Software Foundation.
 
-#### Programming Languages
+Ever since I joined GitHub **13** years ago, I pushed **4715** commits, opened **964** issues, submitted **1005** pull requests, reviewed **1328** PRs, received **183** stars across **224** personal projects, and contributed to **35** public repositories.
 
-- 🐍 Python
-- 🐚 Bash
-- 💻 C/C++
-- 🦀 Rust
-- 🌕 lua
+Most used languages across my projects:
+
+![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B137.6%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B119.5%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B116%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B19.2%25)
+![CoffeeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23244776&message=CoffeeScript%EF%B8%B14.8%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B13.1%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B12.8%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B16.7%25)
 
 #### I have hands-on experience with
 
@@ -19,21 +24,14 @@ Book Author, Member of the Python Software Foundation.
 [
     "Package Management", "Content Management", "System Configuration", "Distributed Systems", "Event Driven",
     "Architecture", "Engineering", "Programming", "Team Leading", "Quality Engineering",
-    "Django", "Flask", "FastAPI", "Axum", "Actix",
+    "Django", "Flask", "FastAPI", "Axum", "Actix",`
     "HTTP", "REST", "g/RPC", "*sockets",
     "Redis", "Postgres", "SQL", "MongoDB", "ElasticSearch", "MeiliSearch", "etcd", "vault",
-    "Ansible", "Docker", "Podman", "NGinx", "Apache", "Envoy",
+    "Ansible", "Docker", "Podman", "Nginx", "Apache", "Envoy",
 ]
 ```
 
-#### I use BTW
-
-- Arch Linux
-- KDE
-- Kate-Editor
-- Self Hosting
-
-#### Reach me on
+#### Contact
 
 - Social [@rochacbruno@social.rochacbruno.com](https://social.rochacbruno.com/@rochacbruno)
 - Videos [video.rochacbruno.com](https://video.rochacbruno.com)
