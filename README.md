@@ -9,7 +9,7 @@ Book Author, Member of the Python Software Foundation.
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **13** years ago, I pushed **5268** commits, opened **964** issues, submitted **1005** pull requests, reviewed **1328** PRs, received **9680** stars across **64** personal projects, and contributed to **35** public repositories.
+Ever since I joined GitHub **13** years ago, I pushed **5270** commits, opened **964** issues, submitted **1005** pull requests, reviewed **1328** PRs, received **9680** stars across **64** personal projects, and contributed to **35** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
