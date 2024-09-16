@@ -2,16 +2,14 @@
 
 Currently I am coding at [Red Hat](https://redhat.com) for the [Ansible Automation Platform](https://ansible.com).
 
-**I am** the creator and maintainer of [Dynaconf](https://dynaconf.com) the Python settings library,
-an book Author, Member of the Python Software Foundation, Educator at LINUXtips and as a free time hobby I like to experiment with Rust Language.
-
-At the moment my **main interests** are: Federated Social Networks, ActivityPub, Software Architecture, Teaching Techniques, Rust Language, Self Hosting and digital sovereignty, Gravel or Classic Road Bikes, Progressive Metal and the magical malted water of Scotland.
+I am the creator and maintainer of [Dynaconf](https://dynaconf.com) the Python Settings Library,
+Book Author, Member of the Python Software Foundation.
 
 [![pgp](https://img.shields.io/badge/pgp-E24F121A3F9DAC02E7FB1885AB110BDC10ED0A39-313131?style=flat&labelColor=545454&color=313131)](https://keyoxide.org/E24F121A3F9DAC02E7FB1885AB110BDC10ED0A39) [![views](https://komarev.com/ghpvc/?username=rochacbruno&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/rochacbruno)
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **13** years ago, I pushed **5312** commits, opened **965** issues, submitted **1011** pull requests, reviewed **1338** PRs, received **9680** stars across **64** personal projects, and contributed to **33** public repositories.
+Ever since I joined GitHub **13** years ago, I pushed **5314** commits, opened **965** issues, submitted **1012** pull requests, reviewed **1338** PRs, received **9680** stars across **64** personal projects, and contributed to **32** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
@@ -41,9 +39,10 @@ Most used languages across my projects:
 
 #### Contact
 
-- Social [ActivityPub](https://social.rochacbruno.com/@rochacbruno) and [ATproto](https://bsky.app/profile/rochacbruno.com)
-- Videos [CodeShow](https://Youtube.com/@CodeShowBR)
+- Social [@rochacbruno@social.rochacbruno.com](https://social.rochacbruno.com/@rochacbruno)
+- Videos [video.rochacbruno.com](https://video.rochacbruno.com)
 - Blog [blog.rochacbruno.com](https://blog.rochacbruno.com)
+- Photos [pixel.rochacbruno.com](https://pixel.rochacbruno.com)
 - Work Related [linkedin.com/in/rochacbruno](https://linkedin.com/in/rochacbruno)
 
 ---
