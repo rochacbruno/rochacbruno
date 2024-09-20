@@ -11,7 +11,7 @@ At the moment my **main interests** are: Federated Social Networks, ActivityPub,
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **13** years ago, I pushed **5326** commits, opened **965** issues, submitted **1015** pull requests, reviewed **1341** PRs, received **9680** stars across **64** personal projects, and contributed to **31** public repositories.
+Ever since I joined GitHub **13** years ago, I pushed **5328** commits, opened **965** issues, submitted **1015** pull requests, reviewed **1341** PRs, received **9680** stars across **64** personal projects, and contributed to **31** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
@@ -41,7 +41,8 @@ Most used languages across my projects:
 
 #### Contact
 
-- Social [ActivityPub](https://social.rochacbruno.com/@rochacbruno) and [ATproto](https://bsky.app/profile/bruno.rocha.social)
+- Links [bruno.rocha.social](https://bruno.rocha.social)
+- Social [Fediverse: @bruno@rocha.social](https://go.rocha.social/@bruno) and [ATproto: bruno.rocha.social](https://bsky.app/profile/bruno.rocha.social)
 - Videos [CodeShow](https://Youtube.com/@CodeShowBR)
 - Blog [blog.rochacbruno.com](https://blog.rochacbruno.com)
 - Work Related [linkedin.com/in/rochacbruno](https://linkedin.com/in/rochacbruno)
