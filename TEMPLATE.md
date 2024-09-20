@@ -36,7 +36,8 @@ Most used languages across my projects:
 
 #### Contact
 
-- Social [ActivityPub](https://social.rochacbruno.com/@rochacbruno) and [ATproto](https://bsky.app/profile/bruno.rocha.social)
+- Links [bruno.rocha.social](https://bruno.rocha.social)
+- Social [Fediverse: @bruno@rocha.social](https://go.rocha.social/@bruno) and [ATproto: bruno.rocha.social](https://bsky.app/profile/bruno.rocha.social)
 - Videos [CodeShow](https://Youtube.com/@CodeShowBR)
 - Blog [blog.rochacbruno.com](https://blog.rochacbruno.com)
 - Work Related [linkedin.com/in/rochacbruno](https://linkedin.com/in/rochacbruno)
