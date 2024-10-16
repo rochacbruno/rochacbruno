@@ -11,20 +11,20 @@ At the moment my **main interests** are: Federated Social Networks, ActivityPub,
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **13** years ago, I pushed **5372** commits, opened **973** issues, submitted **1034** pull requests, reviewed **1358** PRs, received **9680** stars across **67** personal projects, and contributed to **33** public repositories.
+Ever since I joined GitHub **13** years ago, I pushed **5378** commits, opened **996** issues, submitted **1035** pull requests, reviewed **1359** PRs, received **9680** stars across **68** personal projects, and contributed to **33** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
 Most used languages across my projects:
 
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B149%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B122.7%25)
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B114.1%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B148.9%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B122.6%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B114%25)
 ![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B14%25)
 ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B13.7%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B13.4%25)
 ![Makefile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23427819&message=Makefile%EF%B8%B11.4%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.3%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.5%25)
 
 #### I have hands-on experience with
 
