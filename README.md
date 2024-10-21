@@ -11,7 +11,7 @@ At the moment my **main interests** are: Federated Social Networks, ActivityPub,
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **13** years ago, I pushed **5423** commits, opened **1002** issues, submitted **1039** pull requests, reviewed **1371** PRs, received **9680** stars across **68** personal projects, and contributed to **33** public repositories.
+Ever since I joined GitHub **13** years ago, I pushed **5432** commits, opened **1002** issues, submitted **1046** pull requests, reviewed **1371** PRs, received **9680** stars across **68** personal projects, and contributed to **33** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
@@ -20,7 +20,7 @@ Most used languages across my projects:
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B148.7%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B122.5%25)
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B114%25)
-![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B14.3%25)
+![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B14.4%25)
 ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B13.7%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B13.4%25)
 ![Makefile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23427819&message=Makefile%EF%B8%B11.4%25)
