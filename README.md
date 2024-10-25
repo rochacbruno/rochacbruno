@@ -2,7 +2,7 @@
 
 Currently I am coding at [Red Hat](https://redhat.com) for the [Ansible Automation Platform](https://ansible.com).
 
-**I am** the creator and maintainer of [Dynaconf](https://dynaconf.com) the Python settings library,
+**I am** the creator and maintainer of [Dynaconf](https://dynaconf.com) the **Python** settings library and [Marmite](https://rochacbruno.github.io/marmite) The easiest Static Blog Generator written in **Rust**, 
 an book Author, Member of the Python Software Foundation, Educator at LINUXtips and as a free time hobby I like to experiment with Rust Language.
 
 At the moment my **main interests** are: Federated Social Networks, ActivityPub, Software Architecture, Teaching Techniques, Rust Language, Self Hosting and digital sovereignty, Gravel or Classic Road Bikes, Progressive Metal and the magical malted water of Scotland.
@@ -11,7 +11,7 @@ At the moment my **main interests** are: Federated Social Networks, ActivityPub,
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **13** years ago, I pushed **5480** commits, opened **1005** issues, submitted **1061** pull requests, reviewed **1375** PRs, received **9680** stars across **69** personal projects, and contributed to **37** public repositories.
+Ever since I joined GitHub **13** years ago, I pushed **5482** commits, opened **1006** issues, submitted **1061** pull requests, reviewed **1375** PRs, received **9680** stars across **69** personal projects, and contributed to **37** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
@@ -42,7 +42,8 @@ Most used languages across my projects:
 #### Contact
 
 - Links [bruno.rocha.social](https://bruno.rocha.social)
-- Social [Fediverse: @bruno@rocha.social](https://go.rocha.social/@bruno) and [ATproto: bruno.rocha.social](https://bsky.app/profile/bruno.rocha.social)
+- Social [Fediverse: @bruno@rocha.social](https://go.rocha.social/@bruno)
+    - copy `@bruno@rocha.social` and paste on the search box of your Fediverse server (e.g: Mastodon)
 - Videos [CodeShow](https://Youtube.com/@CodeShowBR)
 - Blog [blog.rochacbruno.com](https://blog.rochacbruno.com)
 - Work Related [linkedin.com/in/rochacbruno](https://linkedin.com/in/rochacbruno)
