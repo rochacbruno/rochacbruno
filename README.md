@@ -11,7 +11,7 @@ At the moment my **main interests** are: Federated Social Networks, ActivityPub,
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **14** years ago, I pushed **5552** commits, opened **1018** issues, submitted **1092** pull requests, reviewed **1398** PRs, received **9680** stars across **69** personal projects, and contributed to **38** public repositories.
+Ever since I joined GitHub **14** years ago, I pushed **5558** commits, opened **1018** issues, submitted **1092** pull requests, reviewed **1399** PRs, received **9680** stars across **70** personal projects, and contributed to **39** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
@@ -24,7 +24,7 @@ Most used languages across my projects:
 ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B13.6%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B13.4%25)
 ![Makefile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23427819&message=Makefile%EF%B8%B11.4%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.8%25)
 
 #### I have hands-on experience with
 
