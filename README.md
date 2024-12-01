@@ -11,7 +11,7 @@ At the moment my **main interests** are: Federated Social Networks, ActivityPub,
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **14** years ago, I pushed **5623** commits, opened **1033** issues, submitted **1110** pull requests, reviewed **1402** PRs, received **9680** stars across **71** personal projects, and contributed to **40** public repositories.
+Ever since I joined GitHub **14** years ago, I pushed **5624** commits, opened **1033** issues, submitted **1110** pull requests, reviewed **1402** PRs, received **9680** stars across **71** personal projects, and contributed to **40** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
