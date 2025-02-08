@@ -22,7 +22,34 @@ jobs:
           includeForks: false
       - name: Update README.md
         shell: bash
+        # run: |
+        #   if [[ "$(git status --porcelain)" != "" ]]; then
+        #     git config user.name 'Bruno Rocha'
+        #     git config user.email 'rochacbruno@gmail.com'
+        #     git add *.md
+        #     git commit -m "Update README.md"
+        #     git push
+        #   fi
         run: |
+          # Get the timestamp of the latest commit (in seconds since epoch)
+          LATEST_COMMIT_TIMESTAMP=$(git log -1 --format=%ct)
+          
+          # Get the current timestamp
+          CURRENT_TIMESTAMP=$(date +%s)
+          
+          # Calculate the difference in seconds
+          TIME_DIFF=$((CURRENT_TIMESTAMP - LATEST_COMMIT_TIMESTAMP))
+          
+          # 48 hours in seconds
+          THRESHOLD=$((48 * 60 * 60))
+        
+          # If the last commit was made within the last 48 hours, exit
+          if [[ $TIME_DIFF -lt $THRESHOLD ]]; then
+            echo "Last commit was made less than 48 hours ago. Skipping commit."
+            exit 0
+          fi
+        
+          # Proceed with the commit and push if there are changes
           if [[ "$(git status --porcelain)" != "" ]]; then
             git config user.name 'Bruno Rocha'
             git config user.email 'rochacbruno@gmail.com'
