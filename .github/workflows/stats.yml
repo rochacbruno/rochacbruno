@@ -40,8 +40,9 @@ jobs:
           # Calculate the difference in seconds
           TIME_DIFF=$((CURRENT_TIMESTAMP - LATEST_COMMIT_TIMESTAMP))
           
-          # 48 hours in seconds
-          THRESHOLD=$((48 * 60 * 60))
+          # Random hours between 12-96 in seconds
+          HOURS=$(( (RANDOM % 84) + 12 ))
+          THRESHOLD=$((HOURS * 60 * 60))
         
           # If the last commit was made within the last 48 hours, exit
           if [[ $TIME_DIFF -lt $THRESHOLD ]]; then
