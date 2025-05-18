@@ -1,17 +1,17 @@
-#### Hi, I'm **Bruno Rocha**
+#### Hi, I'm **Bruno Cesar Rocha**
 
 Currently I am coding at [Red Hat](https://redhat.com) for the [Ansible Automation Platform](https://ansible.com).
 
 **I am** the creator and maintainer of [Dynaconf](https://dynaconf.com) the **Python** settings library and [Marmite](https://rochacbruno.github.io/marmite) The easiest Static Blog Generator written in **Rust**, 
 an book Author, Member of the Python Software Foundation, Educator at LINUXtips and as a free time hobby I like to experiment with Rust Language.
 
-At the moment my **main interests** are: Federated Social Networks, ActivityPub, Software Architecture, Teaching Techniques, Rust Language, Self Hosting and digital sovereignty, Gravel or Classic Road Bikes, Progressive Metal and the magical malted water of Scotland.
+At the moment my **main interests** are: Python and Rust Languages, Automation, Distributed Systems, Self Hosting and digital sovereignty, Gravel or Classic Road Bikes, Progressive Metal and the magical malted water of Scotland.
 
 [![pgp](https://img.shields.io/badge/pgp-E24F121A3F9DAC02E7FB1885AB110BDC10ED0A39-313131?style=flat&labelColor=545454&color=313131)](https://keyoxide.org/E24F121A3F9DAC02E7FB1885AB110BDC10ED0A39) [![views](https://komarev.com/ghpvc/?username=rochacbruno&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/rochacbruno)
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **14** years ago, I pushed **5845** commits, opened **1082** issues, submitted **1170** pull requests, reviewed **1533** PRs, received **9680** stars across **73** personal projects, and contributed to **43** public repositories.
+Ever since I joined GitHub **14** years ago, I pushed **5847** commits, opened **1083** issues, submitted **1170** pull requests, reviewed **1533** PRs, received **9680** stars across **73** personal projects, and contributed to **43** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
@@ -44,14 +44,7 @@ Most used languages across my projects:
 - Links [bruno.rocha.social](https://bruno.rocha.social)
 - Social [Fediverse: @bruno@rocha.social](https://go.rocha.social/@bruno)
     - copy `@bruno@rocha.social` and paste on the search box of your Fediverse server (e.g: Mastodon)
+- Bluesky [@bruno.rocha.social](https://bsky.app/profile/bruno.rocha.social)
 - Videos [CodeShow](https://Youtube.com/@CodeShowBR)
 - Blog [blog.rochacbruno.com](https://blog.rochacbruno.com)
 - Work Related [linkedin.com/in/rochacbruno](https://linkedin.com/in/rochacbruno)
-
----
-
-<!--  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rochacbruno&show-avatar=false" width="800" />  -->
-
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rochacbruno&skills=python,rust,shell,lua,html,javascript" width="800" />
-
