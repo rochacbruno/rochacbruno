@@ -44,10 +44,19 @@ jobs:
           HOURS=$(( (RANDOM % 84) + 12 ))
           THRESHOLD=$((HOURS * 60 * 60))
         
-          # If the last commit was made within the last 48 hours, exit
-          if [[ $TIME_DIFF -lt $THRESHOLD ]]; then
-            echo "Last commit was made less than 48 hours ago. Skipping commit."
-            exit 0
+          # If the commit message contains #force, skip the time check
+          if [[ -z "$COMMIT_MSG" ]]; then
+            COMMIT_MSG=$(git log -1 --pretty=%B)
+          fi
+
+          if [[ "$COMMIT_MSG" != *"#force"* ]]; then
+            # If the last commit was made within the last 48 hours, exit
+            if [[ $TIME_DIFF -lt $THRESHOLD ]]; then
+              echo "Last commit was made less than $HOURS hours ago. Skipping commit."
+              exit 0
+            fi
+          else
+            echo "#force found in commit message, skipping time check."
           fi
         
           # Proceed with the commit and push if there are changes

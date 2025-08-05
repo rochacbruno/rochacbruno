@@ -1,8 +1,11 @@
+
+![Failure is not an Option, it is a Result<T,E>](./img/banner.jpg "Failure is not an Option it is a Result<T,E>")
+
 #### Hi, I'm **Bruno Cesar Rocha**
 
 Currently I am coding at [Red Hat](https://redhat.com) for the [Ansible Automation Platform](https://ansible.com).
 
-**I am** the creator and maintainer of [Dynaconf](https://dynaconf.com) the **Python** settings library and [Marmite](https://rochacbruno.github.io/marmite) The easiest Static Blog Generator written in **Rust**, 
+**I am** the creator and maintainer of [Dynaconf](https://dynaconf.com) the **Python** settings library and [Marmite](https://marmite.blog) The easiest Static Blog Generator written in **Rust**, 
 an book Author, Member of the Python Software Foundation, Educator at LINUXtips and as a free time hobby I like to experiment with Rust Language.
 
 At the moment my **main interests** are: Python and Rust Languages, Automation, Distributed Systems, Self Hosting and digital sovereignty, Gravel or Classic Road Bikes, Progressive Metal and the magical malted water of Scotland.
