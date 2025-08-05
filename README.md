@@ -1,8 +1,11 @@
+
+![Failure is not an Option, it is a Result<T,E>](./img/banner.jpg "Failure is not an Option it is a Result<T,E>")
+
 #### Hi, I'm **Bruno Cesar Rocha**
 
 Currently I am coding at [Red Hat](https://redhat.com) for the [Ansible Automation Platform](https://ansible.com).
 
-**I am** the creator and maintainer of [Dynaconf](https://dynaconf.com) the **Python** settings library and [Marmite](https://rochacbruno.github.io/marmite) The easiest Static Blog Generator written in **Rust**, 
+**I am** the creator and maintainer of [Dynaconf](https://dynaconf.com) the **Python** settings library and [Marmite](https://marmite.blog) The easiest Static Blog Generator written in **Rust**, 
 an book Author, Member of the Python Software Foundation, Educator at LINUXtips and as a free time hobby I like to experiment with Rust Language.
 
 At the moment my **main interests** are: Python and Rust Languages, Automation, Distributed Systems, Self Hosting and digital sovereignty, Gravel or Classic Road Bikes, Progressive Metal and the magical malted water of Scotland.
@@ -11,7 +14,7 @@ At the moment my **main interests** are: Python and Rust Languages, Automation, 
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **14** years ago, I pushed **5994** commits, opened **1098** issues, submitted **1217** pull requests, reviewed **1566** PRs, received **9680** stars across **77** personal projects, and contributed to **45** public repositories.
+Ever since I joined GitHub **14** years ago, I pushed **6001** commits, opened **1100** issues, submitted **1220** pull requests, reviewed **1566** PRs, received **9680** stars across **78** personal projects, and contributed to **45** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
