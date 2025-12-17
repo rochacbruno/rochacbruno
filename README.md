@@ -14,14 +14,14 @@ At the moment my **main interests** are: Python and Rust Languages, Automation, 
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **15** years ago, I pushed **6508** commits, opened **1119** issues, submitted **1293** pull requests, reviewed **1603** PRs, received **9680** stars across **92** personal projects, and contributed to **46** public repositories.
+Ever since I joined GitHub **15** years ago, I pushed **6535** commits, opened **1120** issues, submitted **1298** pull requests, reviewed **1619** PRs, received **9680** stars across **92** personal projects, and contributed to **48** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
 Most used languages across my projects:
 
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B135.5%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B133%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B135.4%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B133.1%25)
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B19.2%25)
 ![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B18.4%25)
 ![Vim Script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20Script%EF%B8%B14.1%25)
