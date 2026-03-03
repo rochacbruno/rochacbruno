@@ -3,7 +3,7 @@
 
 #### Hi, I'm **Bruno Cesar Rocha**
 
-Currently I am coding at [Red Hat](https://redhat.com) for the OpenShift project, and I have contributed to Ansible Automation Platform, Pulp and Satellite in the past.
+Currently I am coding at [Red Hat](https://redhat.com) for the [OpenShift](https://github.com/openshift) project, and I have contributed to Ansible Automation Platform, Pulp and Satellite in the past.
 
 **I am** the creator and maintainer of [Dynaconf](https://dynaconf.com) the **Python** settings library and [Marmite](https://marmite.blog) The easiest Static Blog Generator written in **Rust**, 
 an book Author, Member of the Python Software Foundation, Educator at LINUXtips and as a free time hobby I like to experiment with Rust Language.
