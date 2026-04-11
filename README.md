@@ -14,7 +14,7 @@ At the moment my **main interests** are: Programming languages, Cloud Native Com
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **15** years ago, I pushed **6662** commits, opened **1125** issues, submitted **1314** pull requests, reviewed **1640** PRs, received **9680** stars across **92** personal projects, and contributed to **51** public repositories.
+Ever since I joined GitHub **15** years ago, I pushed **6664** commits, opened **1125** issues, submitted **1314** pull requests, reviewed **1640** PRs, received **9680** stars across **92** personal projects, and contributed to **51** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
@@ -49,6 +49,6 @@ Most used languages across my projects:
     - copy `@bruno@rocha.social` and paste on the search box of your Fediverse server (e.g: Mastodon)
 - [Microblog](https://cesar.rocha.social/bruno)
 - Bluesky [@bruno.rocha.social](https://bsky.app/profile/bruno.rocha.social)
-- Videos [CodeShow](https://Youtube.com/@CodeShowBR)
+- Videos [YouTube](https://www.youtube.com/@oBrunoCesarRocha)
 - Blog [blog.rochacbruno.com](https://blog.rochacbruno.com)
 - Work Related [linkedin.com/in/rochacbruno](https://linkedin.com/in/rochacbruno)
