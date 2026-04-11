@@ -44,6 +44,6 @@ Most used languages across my projects:
     - copy `@bruno@rocha.social` and paste on the search box of your Fediverse server (e.g: Mastodon)
 - [Microblog](https://cesar.rocha.social/bruno)
 - Bluesky [@bruno.rocha.social](https://bsky.app/profile/bruno.rocha.social)
-- Videos [CodeShow](https://Youtube.com/@CodeShowBR)
+- Videos [YouTube](https://www.youtube.com/@oBrunoCesarRocha)
 - Blog [blog.rochacbruno.com](https://blog.rochacbruno.com)
 - Work Related [linkedin.com/in/rochacbruno](https://linkedin.com/in/rochacbruno)
