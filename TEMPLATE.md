@@ -11,10 +11,11 @@ an book Author, Member of the Python Software Foundation.
 <!--
 
 At the moment my **main interests** are: Programming languages, Cloud Native Computing, Distributed Systems, Configurations, Automation, Self Hosting and digital sovereignty, Gravel or Classic Road Bikes, Progressive Metal and the magical malted water of Scotland.
+-->
 
 [![pgp](https://img.shields.io/badge/pgp-E24F121A3F9DAC02E7FB1885AB110BDC10ED0A39-313131?style=flat&labelColor=545454&color=313131)](https://keyoxide.org/E24F121A3F9DAC02E7FB1885AB110BDC10ED0A39) [![views](https://komarev.com/ghpvc/?username=rochacbruno&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/rochacbruno)
 
--->
+
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
