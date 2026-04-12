@@ -1,20 +1,24 @@
 
-![Failure is not an Option, it is a Result<T,E>](./img/banner.jpg "Failure is not an Option it is a Result<T,E>")
+<!-- ![Failure is not an Option, it is a Result<T,E>](./img/banner.jpg "Failure is not an Option it is a Result<T,E>") -->
 
 #### Hi, I'm **Bruno Cesar Rocha**
 
 Currently I am coding at [Red Hat](https://redhat.com) for the [OpenShift](https://github.com/openshift) project, and I have contributed to Ansible Automation Platform, Pulp and Satellite in the past.
 
-**I am** the creator and maintainer of [Dynaconf](https://dynaconf.com) the **Python** settings library and [Marmite](https://marmite.blog) The easiest Static Blog Generator written in **Rust**, 
-an book Author, Member of the Python Software Foundation, Educator at LINUXtips and as a free time hobby I like to experiment with Rust Language.
+**I am** the creator and maintainer of [Dynaconf](https://dynaconf.com) the **Python** settings library and [Marmite](https://marmite.blog) A Static Blog Generator written in **Rust**, 
+an book Author, Member of the Python Software Foundation.
+
+<!--
 
 At the moment my **main interests** are: Programming languages, Cloud Native Computing, Distributed Systems, Configurations, Automation, Self Hosting and digital sovereignty, Gravel or Classic Road Bikes, Progressive Metal and the magical malted water of Scotland.
 
 [![pgp](https://img.shields.io/badge/pgp-E24F121A3F9DAC02E7FB1885AB110BDC10ED0A39-313131?style=flat&labelColor=545454&color=313131)](https://keyoxide.org/E24F121A3F9DAC02E7FB1885AB110BDC10ED0A39) [![views](https://komarev.com/ghpvc/?username=rochacbruno&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/rochacbruno)
 
+-->
+
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **15** years ago, I pushed **6664** commits, opened **1125** issues, submitted **1314** pull requests, reviewed **1640** PRs, received **9680** stars across **92** personal projects, and contributed to **51** public repositories.
+Ever since I joined GitHub **15** years ago, I pushed **6666** commits, opened **1125** issues, submitted **1314** pull requests, reviewed **1640** PRs, received **9680** stars across **92** personal projects, and contributed to **51** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
@@ -29,6 +33,8 @@ Most used languages across my projects:
 ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B12.4%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.6%25)
 
+<!--
+
 #### I have hands-on experience with
 
 ```python
@@ -41,6 +47,7 @@ Most used languages across my projects:
     "Ansible", "Docker", "Podman", "Nginx", "Apache", "Envoy", "Kubernetes", "Terraform", "OpenShift",
 ]
 ```
+-->
 
 #### Contact
 
