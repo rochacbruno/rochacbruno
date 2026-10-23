@@ -19,7 +19,7 @@ At the moment my **main interests** are: Programming languages, Cloud Native Com
 
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rochacbruno" alt="rochacbruno" /> </p -->
 
-Ever since I joined GitHub **15** years ago, I pushed **7666** commits, opened **1136** issues, submitted **1414** pull requests, reviewed **1677** PRs, received **9680** stars across **93** personal projects, and contributed to **54** public repositories.
+Ever since I joined GitHub **15** years ago, I pushed **7667** commits, opened **1136** issues, submitted **1414** pull requests, reviewed **1677** PRs, received **9680** stars across **93** personal projects, and contributed to **52** public repositories.
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
